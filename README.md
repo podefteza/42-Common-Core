@@ -6,5 +6,5 @@ These are my solutions to each project in the C Common Core that is taking place
 |-------------------------|--------:|
 | [Libft](https://github.com/podefteza/libft)                   | 125 ✅  |
 | [ft_printf](https://github.com/podefteza/ft_printf)              |  100 ✅  |
-| [get_next_line](https://github.com/podefteza/get_next_line)           |  not yet evaluated  |
+| [get_next_line](https://github.com/podefteza/get_next_line)           |  125 ✅  |
 | Born2beroot           |  not yet evaluated  |
