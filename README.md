@@ -2,6 +2,8 @@
 
 These are my solutions to each project in the C Common Core that is taking place in 42 Porto campus from April 9th, 2024 to the present day. Please note that these implementations reflect my approach to solving the problems and may not necessarily be the most correct or efficient solutions.
 
+For my piscine projects, click [here](https://github.com/podefteza/42-C-Piscine).
+
 | Project Name             |  Score  |
 |-------------------------|--------:|
 | [Libft](https://github.com/podefteza/libft)                   | 125 ✅  |
