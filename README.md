@@ -1,4 +1,4 @@
-# 42-Common-Core 👨🏻‍💻
+# 42 Common Core 👨🏻‍💻
 
 These are my solutions to each project in the Common Core that is taking place in 42 Porto campus from April 9th, 2024 to the present day. Please note that these implementations reflect my approach to solving the problems and may not necessarily be the most correct or efficient solutions.
 
