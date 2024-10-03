@@ -12,5 +12,5 @@ For my piscine projects, click [here](https://github.com/podefteza/42-C-Piscine)
 | [Born2beroot](https://github.com/podefteza/Born2beRoot)           |  `83 ✅`  |
 | [push_swap](https://github.com/podefteza/push_swap) |  `84 ✅`  |
 | pipex | in progress... |
-| so_long/fdf | not started |
-| Exam Rank 02 | `100 ✅` |
+| so_long/fdf/fract_ol | not started |
+| [Exam Rank 02](https://github.com/podefteza/exam-rank-02) | `100 ✅` |
