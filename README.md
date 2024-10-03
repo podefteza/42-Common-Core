@@ -6,8 +6,11 @@ For my piscine projects, click [here](https://github.com/podefteza/42-C-Piscine)
 
 | Project Name             |  Score  |
 |-------------------------|--------:|
-| [Libft](https://github.com/podefteza/libft)                   | 125 ✅  |
-| [ft_printf](https://github.com/podefteza/ft_printf)              |  100 ✅  |
-| [get_next_line](https://github.com/podefteza/get_next_line)           |  125 ✅  |
-| [Born2beroot](https://github.com/podefteza/Born2beRoot)           |  83 ✅  |
-| [push_swap](https://github.com/podefteza/push_swap) |  84 ✅  |
+| [Libft](https://github.com/podefteza/libft)                   | `125 ✅`  |
+| [ft_printf](https://github.com/podefteza/ft_printf)              |  `100 ✅`  |
+| [get_next_line](https://github.com/podefteza/get_next_line)           |  `125 ✅`  |
+| [Born2beroot](https://github.com/podefteza/Born2beRoot)           |  `83 ✅`  |
+| [push_swap](https://github.com/podefteza/push_swap) |  `84 ✅`  |
+| pipex | in progress... |
+| so_long/fdf | not started |
+| Exam Rank 02 | `100 ✅` |
