@@ -12,5 +12,6 @@ For my piscine projects, click [here](https://github.com/podefteza/42-C-Piscine)
 | [Born2beroot](https://github.com/podefteza/Born2beRoot)           |  `83 ✅`  |
 | [push_swap](https://github.com/podefteza/push_swap) |  `84 ✅`  |
 | [pipex](https://github.com/podefteza/pipex) | `100 ✅`  |
-| so_long | in progress... |
+| [so_long](https://github.com/podefteza/so_long) | `118 ✅` |
+| Philosophers | in progress... |
 | [Exam Rank 02](https://github.com/podefteza/exam-rank-02) | `100 ✅` |
