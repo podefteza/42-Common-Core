@@ -15,3 +15,5 @@ For my piscine projects, click [here](https://github.com/podefteza/42-C-Piscine)
 | [so_long](https://github.com/podefteza/so_long) | `118 ✅` |
 | Philosophers | in progress... |
 | [Exam Rank 02](https://github.com/podefteza/exam-rank-02) | `100 ✅` |
+| [Exam Rank 03](https://github.com/podefteza/exam-rank-03) | `100 ✅` |
+
