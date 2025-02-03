@@ -15,6 +15,6 @@ For my piscine projects, click [here](https://github.com/podefteza/42-C-Piscine)
 || [pipex](https://github.com/podefteza/pipex) | `100 ✅`  |
 || [so_long](https://github.com/podefteza/so_long) | `118 ✅` |
 | Rank 4 | [Exam Rank 03](https://github.com/podefteza/exam-rank-03) | `100 ✅` |
-|| Philosophers | in progress... |
+|| [Philosophers](https://github.com/podefteza/philo) | `100 ✅` |
 || Minishell | not yet started... |
 
