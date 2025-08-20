@@ -18,6 +18,6 @@ For my piscine projects, click [here](https://github.com/podefteza/42-C-Piscine)
 || [Philosophers](https://github.com/podefteza/philo) | `100 ✅` |
 || [Minishell](https://github.com/podefteza/minishell) | `100 ✅` |
 | Milestone 4 | Exam Rank 04 | `not yet started...` |
-|| NetPractice | `not yet started...` |
+|| NetPractice | `100 ✅` |
 || cub3d/miniRT | `not yet started...` |
 || CPP Modules 00-04 | `not yet started...` |
