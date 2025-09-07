@@ -17,7 +17,7 @@ For my piscine projects, click [here](https://github.com/podefteza/42-C-Piscine)
 | Milestone 3 | [Exam Rank 03](https://github.com/podefteza/exam-rank-03) | `100 ✅` |
 || [Philosophers](https://github.com/podefteza/philo) | `100 ✅` |
 || [Minishell](https://github.com/podefteza/minishell) | `100 ✅` |
-| Milestone 4 | Exam Rank 04 | `not yet started...` |
+| Milestone 4 | [Exam Rank 04](https://github.com/podefteza/exam-rank-04) | `100 ✅` |
 || [NetPractice](https://github.com/podefteza/NetPractice) | `100 ✅` |
 || cub3d | `in progress...` |
 || CPP Modules 00-04 | `not yet started...` |
