@@ -26,7 +26,7 @@ For my piscine projects, click [here](https://github.com/podefteza/42-C-Piscine)
 ### Milestone 4
 - [**Exam Rank 04**](https://github.com/podefteza/exam-rank-04) - `100 ✅`
 - [**NetPractice**](https://github.com/podefteza/NetPractice) - Interactive network setup and troubleshooting simulator for IP and routing.
-- **cub3d** - 3D raycasting game inspired by *Wolfenstein 3D*, built with MiniLibX. `group project 👨‍👨`
+- [**cub3d**](https://github.com/Drkpulse/cub3d) - 3D raycasting game inspired by *Wolfenstein 3D*, built with MiniLibX. `group project 👨‍👨`
 - [**CPP Module 00**](https://github.com/podefteza/cpp00) - Intro to C++ basics, classes, constructors, and destructors.
 - [**CPP Module 01**](https://github.com/podefteza/cpp01) - Classes, memory management, pointers/references, file I/O, and function pointers.
 - **CPP Module 02** - not yet started...
