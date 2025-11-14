@@ -31,4 +31,4 @@ For my piscine projects, click [here](https://github.com/podefteza/42-C-Piscine)
 - [**CPP Module 01**](https://github.com/podefteza/cpp01) - Classes, memory management, pointers/references, file I/O, and function pointers.
 - [**CPP Module 02**](https://github.com/podefteza/cpp02) - Ad-hoc Polymorphism, Operator Overloading and Orthodox Canonical Form.
 - [**CPP Module 03**](https://github.com/podefteza/cpp03) - Inheritance.
-- **CPP Module 04** - not yet started...
+- **CPP Module 04** - Subtype Polymorphism, Abstract Classes, and Interfaces.
